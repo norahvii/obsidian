@@ -1,0 +1,34 @@
+# The Cave of Writing
+
+![580](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/An_Illustration_of_The_Allegory_of_the_Cave%2C_from_Plato%E2%80%99s_Republic.jpg/1024px-An_Illustration_of_The_Allegory_of_the_Cave%2C_from_Plato%E2%80%99s_Republic.jpg)
+
+For Socrates asks: 
+ > "Or would not he or she much rather wish for the condition that Homer speaks of, namely "to live on the land (above ground) as the paid menial of another destitute peasant?" Wouldn't he or she prefer to put up with absolutely anything else rather than associate with those opinions that hold in the cave and be that kind of human being?"
+
+Why can't the man from the underground enter the overground without becoming destitute? In Plato's allegory of the cave, Plato shows us a situation is designed where shadow speculators are chained to a wall and speculate on the meanings. That which they speak about the shadows is all they know, but if only they could turn their heads, they would see for themselves that the shadows on the wall are but projections cast from the fire behind them. 
+
+The [[Strauss]]ian tradition asks us to read between the lines of this text. It's not simply enough for us to accept that Plato is merely a critic of perfect knowledge as a persuit, we also need to wonder what is the purpose of the shadow metaphor. Is it a metaphor for writing? When people write, they are only able to look ahead, and indeed Socrates says:
+
+>"The people have been in this dwelling since childhood, shackled by the legs and neck.Thus they stay in the same place so that there is only one thing for them to look that: whatever they encounter in front of their faces. But because they are shackled, they are unable to turn their heads around."
+
+Clearly Plato would know about feral children and how routine alters the behavior of a human being through the story of [Romulus and Remus](https://en.wikipedia.org/wiki/Romulus_and_Remus). A piece of paper is, naturally, something that Plato (a writer) would be fully conscious as existing in front of his face. What "shackled" him, however, was his training and routine. As a result, leaving the "cave of writing" causes him to feel "pain and rage."
+
+After understanding the Sun, he's moved to pity the shadow-speculators. However there's a catch: an honors system of punishments and rewards is already in place for the shadow-speculators. Much like the grades schoolchildren, those who're fastest and brightest are rapidly rewarded.
+
+> However, what if among the people in the previous dwelling place, the cave, certain honors and commendations were established for whomever most clearly catches sight of what passes by and also best remembers which of them normally is brought by first, which one later, and which ones at the same time? And what if there were honors for whoever could most easily foresee which one might come by next? Do you think the one who had gotten out of the cave would still envy those within the cave and would want to compete with them who are esteemed and who have power?
+
+Plato is asking a rhetorical question here. He presents for us a situation where the audience (the one who gets out of the cave) is now aware the power the shadow-speculators have is petty. We are told their situation is pitiable, not desireable. However, we must bare in mind something: this could in fact be an allegory for writing itself. If it is, it means that Plato is speaking to us between the lines, saying that writing has become an instrument to power, and further stating that it's one which never reaches the real nature of things, and even further stating that it, in due time, renders the subject dependent on the activity as a way of life. 
+
+> "Or would not he or she much rather wish for the condition that Homer speaks of, namely "to live on the land (above ground) as the paid menial of another destitute peasant?" Wouldn't he or she prefer to put up with absolutely anything else rather than associate with those opinions that hold in the cave and be that kind of human being?"
+
+Plato begins with "Or" suggesting our alternative is to return to the prior mode of existence, or to leave the condition (of facing the wall and writing) behind completely. But warns that life (above ground) will condemn them to a menial existence, as the paid menial of another destitute pesant.
+
+[The Talmud](https://en.wikipedia.org/wiki/Talmud) is a collection of court cases, among other things, and given that Plato is exceptionally literate, as proved by his skill as a writer, it's possible he wrote "The Allegory" (a story with a hidden meaning) in a state fully conscious of paper's usefulness for indicating rights of contractual property ownership, and therefore power. Thus, Plato is expressing an awareness of the coming paradigmatic shift in power, where the spoken word is less legitimate than the written word. Trough storytelling, Plato grieves the loss of the entire terrestrial world, which he imagines will be totally submerged.
+
+> "Now if once again, along with those who had remained shackled there, the freed person  had to engage in the business of asserting and maintaining opinions about the shadows -- while his eyes are still weak and before they have readjusted, an adjustment that would require quite a bit of time -- would he not then be exposed to ridicule down there? And would they not let him know that he had gone up but only in order to come back down into the cave with his eyes ruined -- and thus it certainly does not pay to go up."
+
+Now, readers should note The Talmud contains the word "maintain" 658 times, and "assert" 128 times, and "deduce" 512 times, and "opinion" 1166 times. From this alone, one could intuit that Plato was Jewish and in the process of forming a rebellion against it's practices, or at the very least providing commentary through ironic storytelling.
+
+> "And if they can get hold of this person who takes it in hand to free them from their chains and to lead them up, and if they could kill him, will they not actually kill him?"
+
+Again, the rhetorical answer to Plato's rhetorical question is "They certainly will." Thus he issues a warning, that dare anyone threaten the status quo and attempt to return the world to the old way (of not writing), they shall certainly die, despite their rationality. And, sure enough, the rational Socrates does certainly die. And, sure enough, several generations later, Jesus (another hyper reasonable character) is similarly slaughtered. Thus, Plato presents a schema for "the death of the reasonable one" where the susceptible audience is invited to "envy" the one who dies. In order to create an audience who envies (1) death: (2) not writing... Jesus needed to be created as a character who is "above writing" ([[The Non Writer]]) as a grooming instrument that would be used to aid sophists and rhetoricians in the art of hunting for human beings.
