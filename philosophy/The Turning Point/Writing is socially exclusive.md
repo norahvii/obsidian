@@ -29,3 +29,6 @@ Building off the ancient Platonic idea that "operational overlap" is the sign of
 
 [Edmund Husserl's Complaints on Measurement](https://iep.utm.edu/phe-time/)
 Husserl might say that we can say something exactly, but never exactly exactly. His paranoiac view is that mathematics is nothing but technique. It never narrows in on a "final" measurement or analysis of a thing because smaller units of measurement are always available. It becomes an infinite excuse by which to justify the avoidance of manual labor.
+
+[Pythagoras Was Murdered](https://en.wikipedia.org/wiki/Pythagoras#:~:text=A%20different%20legend%20reported%20by,stopped%20instead%20and%20was%20killed.)
+It's in the realm of possibility that mathematics started as a scheme. Pythagoras preached a doctrine wherein he imagined counting was a pathway to reach the divine. For the reasons I've written previously, counting can be done forever. Counting does not give anyone access to the divine. It has never done anything of the sort. What it can do, however, is serve as a technique by which to avoid manual labor forever. Assuming this is all that's "divine" about it, it makes sense he would end up betrayed and killed.

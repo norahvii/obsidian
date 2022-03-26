@@ -1,0 +1,103 @@
+{
+  "main": {
+    "id": "2e6c8f2abc2dfba2",
+    "type": "split",
+    "children": [
+      {
+        "id": "626cc90d141c462c",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "philosophy/README.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b80aa3736ff4c28e",
+    "type": "split",
+    "children": [
+      {
+        "id": "ea2c5eb8d01c5441",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f07031969b55b573",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "0cec334892e1a823",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2a525a19011d9fa6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c5eccf88565f499",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c9fbc0b5483c5135",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "philosophy/README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "626cc90d141c462c",
+  "lastOpenFiles": [
+    "philosophy/README.md",
+    "philosophy/The Turning Point/From Anglers to Fishers.md",
+    "philosophy/Beyond the Turn/Perfect Library.md",
+    "philosophy/The Trope of the Non Writer/The Non Writer.md",
+    "philosophy/The Turning Point/The Cave of Writing.md",
+    "philosophy/The Turning Point/Rhetorical Illusions.md",
+    "philosophy/The Turning Point/Writing is socially exclusive.md",
+    "philosophy/The Turning Point/The Axial Age.md",
+    "philosophy/The Turning Point/Strauss.md",
+    "philosophy/The Trope of the Non Writer/Abiltiy Without Product Equals Opportunity.md"
+  ]
+}
