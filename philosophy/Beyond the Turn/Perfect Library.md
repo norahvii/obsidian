@@ -12,4 +12,6 @@ J.C.R. Licklider outlines some of his thoughts his short book [Libraries of the 
 
 Unfortunately, no master of logistics or planning could evenly distribute the world's knowledge to everyone, because for their very existence humans use [[The Cave of Writing]] to leverage influential power over their neighbors.
 
-In the future, our libraries could become a new body in what I'll call the [[Spaceship State]] machine.
+In the future, our libraries could become a new body in what I'll call the [[Spaceship State]] machine. What's perplexing about "pefect library" as a concept, is in theory no collection of knowledge would do away with the problem of obedience. Humans do things for humans, which always creates a subordinate relationship, which always creates a new inequality. Thus, the more sophisticated mankind's technical achievement, the greater and more widespread the inequality. 
+
+Indeed, even when the opportunity presents itself for mankind to have free and equal access to all the world's knowledge (Google's Free Library Project for example), the opportunity is not taken. Humans were not allowed to take a step into that "Brave New World" - and a perfectly Utopian technology is wasted completely because it's good for the economy. If, to Husserl, counting is mere technique, it follows also that economic science is merely a process of tracking inequality. The better world is, no doubt, the world that unleashes the  "Free Library" anyway, but it's not really brave enough to do the right thing.
